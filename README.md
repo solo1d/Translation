@@ -1,2 +1,2 @@
-# Initial page
+# 翻译笔记
 
